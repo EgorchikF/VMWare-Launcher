@@ -1,0 +1,10 @@
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VM Wrae launcher.csproj.AssemblyReference.cache
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VM_Wrae_launcher.LaucnherForm.resources
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VM Wrae launcher.csproj.GenerateResource.cache
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VM Wrae launcher.csproj.CoreCompileInputs.cache
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\bin\Release\VMWare Laucnher.exe.config
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\bin\Release\VMWare Laucnher.exe
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\bin\Release\VMWare Laucnher.pdb
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VMWare_Laucnher.Properties.Resources.resources
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VMWare Laucnher.exe
+E:\Культурная прогрмма\Programming\C#\VM Wrae launcher\obj\Release\VMWare Laucnher.pdb
