@@ -2,11 +2,11 @@
 
 **[🌍Русская версия (Russian Version)](https://github.com/EgorchikF/VMWare-Launcher/blob/main/README_ru.md)**
 
-A minimalistic, silent background launcher for **VMware Workstation** and **VMware Player**.
+A minimalistic, silent background launcher for **VMware Workstation**.
 
 ### ✨ Features
 - Automatically starts all required VMware services
-- Launches VMware Workstation / Player
+- Launches VMware Workstation
 - Monitors the main VMware process in the background
 - When VMware is closed:
   - Gracefully kills remaining VMware processes
