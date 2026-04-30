@@ -2,11 +2,11 @@
 
 **[🌍English Version(Английская версия)](https://github.com/EgorchikF/VMWare-Launcher/blob/main/README.md)**
 
-Минималистичный фоновый лаунчер для **VMware Workstation** и **VMware Player**.
+Минималистичный фоновый лаунчер для **VMware Workstation**.
 
 ### ✨ Возможности
 - Автоматически запускает все необходимые службы VMware
-- Запускает VMware Workstation / Player
+- Запускает VMware Workstation
 - Следит за процессом программы в фоне
 - При закрытии VMware:
   - Завершает все оставшиеся процессы VMware
