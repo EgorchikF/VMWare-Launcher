@@ -1,6 +1,6 @@
 # 🚀 VMware Simple Launcher
 
-**[🌍Русская версия ](https://github.com/EgorchikF/VMWare-Launcher/blob/main/README_ru.md)**
+**[🌍Русская версия (Russian Version)](https://github.com/EgorchikF/VMWare-Launcher/blob/main/README_ru.md)**
 
 A minimalistic, silent background launcher for **VMware Workstation** and **VMware Player**.
 
